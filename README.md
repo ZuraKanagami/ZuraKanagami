@@ -1,20 +1,51 @@
-### Hi there 👋
+<div align="center">
+  <h1>Hello, World! 😍</h1>
+</div>
 
-<img src="https://avatars.githubusercontent.com/u/69158355?v=4" width="120" height="120" align="left">
-<center>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=raxelf" alt="Profile Views">
+</p>
 
+<p align="center">
+  <img src="https://i.postimg.cc/hjKbtnW1/guitar-guitar-solo.gif" height="350px" alt="Welcome GIF"/>
+</p>
 
-* MY SOCIAL MEDIA :
+Welcome to my GitHub profile! I'm delighted to have you here. Feel free to explore my repositories and projects. If you have any questions, ideas, or just want to connect, don't hesitate to reach out.
 
-<a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="alt text" width="20" height="20"></a> 
-<a href="https://wa.me/6281221523195?text=Asalamualaikum+bang"><img src="https://github.com/Yayan-XD/Yayan-XD/blob/master/img/whatsapp.png" alt="alt text" width="20" height="20"></a>
-<a href="https://www.facebook.com/61555537283103"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="alt text" width="20" height="20"></a>
-&nbsp;&nbsp;     &nbsp;&nbsp;    &nbsp;&nbsp;   &nbsp;&nbsp;   &nbsp;&nbsp;   
-___
-_Smoking And Coffiee_
-___
+## About Me
 
+I'm a college student from Indonesia, passionate about programming and eager to learn. As a young developer, I'm embarking on a long journey in the world of programming, exploring new concepts and honing my skills. While I may not have extensive experience yet, I approach each project and challenge with enthusiasm and a thirst for knowledge.
 
-Wanna Hire Me ? 
+## Tech Stack
 
-Contact : zurakanagami@gmail.com
+<div align="center">
+  <p>Here are some technologies and tools that I'm familiar with:</p>
+</div>
+
+<div align="center">
+  
+![Unity](https://img.shields.io/badge/Unity-âœ¨-brightgreen)
+![C#](https://img.shields.io/badge/C%23-âœ¨-blue)
+![Laravel](https://img.shields.io/badge/Laravel-âœ¨-blueviolet)
+</div>
+
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=raxelf&show_icons=true&theme=dark" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raxelf&layout=compact&theme=dark" alt="Top Languages">
+  <img src="https://github-profile-trophy.vercel.app/?username=raxelf&theme=dark" alt="Trophies">
+</div>
+
+## Let's Connect
+
+I'm always thrilled to connect with fellow developers and enthusiasts. You can find me on:
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/xyraacode)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-Follow-purple?style=flat-square&logo=instagram)](https://www.instagram.com/xyraacode)
+
+Feel free to drop me a message or connect with me on any of these platforms. I'm looking forward to connecting with you!
+
+Thank you for visiting my GitHub profile. Have a fantastic day!
+
+<img src="https://i.postimg.cc/9XKJHrFG/m200-anime.gif" />
