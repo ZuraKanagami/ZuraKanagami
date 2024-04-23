@@ -24,9 +24,9 @@ I'm a college student from Indonesia, passionate about programming and eager to 
 
 <div align="center">
   
-![Unity](https://img.shields.io/badge/Unity-âœ¨-brightgreen)
-![C#](https://img.shields.io/badge/C%23-âœ¨-blue)
-![Laravel](https://img.shields.io/badge/Laravel-âœ¨-blueviolet)
+![Unity](https://img.shields.io/badge/Unity-✨-brightgreen)
+![C#](https://img.shields.io/badge/C%23-✨-blue)
+![Laravel](https://img.shields.io/badge/Laravel-✨-blueviolet)
 </div>
 
 ## GitHub Stats
